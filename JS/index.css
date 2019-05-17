@@ -1,0 +1,20 @@
+html {
+    padding-top: 15px;
+    height: 100%;
+    background-image: linear-gradient(to top, #252729, #435058, #607d89, #7cafbb, #9ae3ec);
+    /* background-image: linear-gradient(to top, #173b6a, #356287, #5d8aa3, #8db2be, #c3dadd); */
+    /* background: lightslategrey; */
+}
+body {
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/11/08/14/handheld-game-console-2134571_1280.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+}
+ canvas {
+     padding-bottom: 45px;
+ }
