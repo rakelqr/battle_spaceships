@@ -1,6 +1,8 @@
 # battle_spaceships
 🚀 Our first game using only javascript. From JS and Phaser. 
 
+[![Space-Shooter-Retro-Games.png](https://i.postimg.cc/2yXcFK3S/Space-Shooter-Retro-Games.png)](https://postimg.cc/SYCfmVWB)
+
 # Technologies Used
 
 Phaser 3 Library, JavaScript ES6 and Github. 
